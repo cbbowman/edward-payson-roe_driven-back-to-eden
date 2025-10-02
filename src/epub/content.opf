@@ -66,10 +66,10 @@
 		<dc:contributor id="transcriber-1">Charles Franks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Franks, Charles</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net/</meta>
-		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">C. B. Bowman</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Bowman, C. B.</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>
