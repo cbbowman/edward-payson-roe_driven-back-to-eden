@@ -44,3 +44,16 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+section[epub|type~="preface"]{
+	margin-top: 20vh;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
