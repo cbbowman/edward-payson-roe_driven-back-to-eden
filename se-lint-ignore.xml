@@ -6,16 +6,4 @@
                         <reason>Transcription of the letter doesn't end in punctuation.</reason>
                 </ignore>
         </file>
-        <file path="chapter-44.xhtml">
-                <ignore>
-                        <code>y-003</code>
-                        <reason>Closing "The End" doesn't have punctuation.</reason>
-                </ignore>
-        </file>
-        <file path="dedication.xhtml">
-                <ignore>
-                        <code>t-011</code>
-                        <reason>Dedication doesn't end with any punctuation.</reason>
-                </ignore>
-        </file>
 </se-lint-ignore>
